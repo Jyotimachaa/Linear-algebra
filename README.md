@@ -6,13 +6,17 @@ Chapter 1: Linear system of equations
           Solve Linear system of Equation  
           Consistency  
           Gauss Elimination Method  
-          Gauss Jordan Method
+          Gauss Jordan Method  
+          .....................  
+          .....................
 Chapter 2: Vector space  
            Linear combination  
            Linear Independent/ Linear dependent  
            Linear Span  
            Basis  
            Four Fundamental spaces  
+           .......................   
+           .......................  
 Chapter 3: Orthogonality  
            Orthogonal vector  
            Orthonormal vector
